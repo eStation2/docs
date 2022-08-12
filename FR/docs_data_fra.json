@@ -1,8 +1,22 @@
 [{
     "name": "doc1",
-    "title": "REPORT PRODUITS",
+    "title": "INSTALLATION MANUAL",
     "thumb": "pdf",
-    "url": "help/getfile?lang=fra&file=Climate Station Rapport Produits V1.1.0.pdf",
+    "url": "help/getfile?lang=eng&file=Climate Station Installation manual V1.1.1.pdff",
     "type": "USER DOCUMENTATION",
-    "uploaded": "April 01, 2021"
+    "uploaded": "AUGUST 12, 2022"
+},{
+    "name": "doc2",
+    "title": "RAPPORT PRODUITS",
+    "thumb": "pdf",
+    "url": "help/getfile?lang=eng&file=Climate Station Rapport Produits V1.1.1.pdf",
+    "type": "USER DOCUMENTATION",
+    "uploaded": "AUGUST 12, 2022"
+},{
+    "name": "doc3",
+    "title": "MANUEL UTILISATEUR",
+    "thumb": "pdf",
+    "url": "help/getfile?lang=eng&file=Climate Station User Manual V1.1.1.pdf",
+    "type": "USER DOCUMENTATION",
+    "uploaded": "AUGUST 12, 2022"
 }]

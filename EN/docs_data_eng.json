@@ -9,14 +9,14 @@
     "name": "doc2",
     "title": "PRODUCT REPORT",
     "thumb": "pdf",
-    "url": "help/getfile?lang=eng&file=Climate Station Product Report V1.1.2.pdf",
+    "url": "help/getfile?lang=eng&file=Climate Station Product Report V1.2.0.pdf",
     "type": "USER DOCUMENTATION",
-    "uploaded": "March 08, 2023"
+    "uploaded": "October 18, 2023"
 },{
     "name": "doc3",
     "title": "USER MANUAL",
     "thumb": "pdf",
-    "url": "help/getfile?lang=eng&file=Climate Station User Manual V1.1.2.pdf",
+    "url": "help/getfile?lang=eng&file=Climate Station User Manual V1.2.0.pdf",
     "type": "USER DOCUMENTATION",
-    "uploaded": "March 08, 2023"
+    "uploaded": "October 18, 2023"
 }]

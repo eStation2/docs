@@ -26,4 +26,47 @@
     "url": "http://navigator.eumetsat.int",
     "type": "LIENS UTILES",
     "description": "Le Navigator produit EUMETSAT..."
+},{
+    "name": "link5",
+    "title": "ClimSA station Video Tutorial playlist",
+    "thumb": "video",
+    "url": "https://youtube.com/playlist?list=PLFk4ybNmteZ76jgb2Juzty9wnOf7C1wMW&si=QYmOEpsUJr-aEw-W",
+    "type": "LIENS UTILES",
+    "description": "La playlist du didacticiel vidéo..."
+},{
+    "name": "link6",
+    "title": "UAF-CS recordings playlist",
+    "thumb": "video",
+    "url": "https://youtube.com/playlist?list=PLFk4ybNmteZ7kLWdg1hH3OW11yK44yxtR&si=EaKBYJ1HINM-IwHE",
+    "type": "LIENS UTILES",
+    "description": "UAF-CS liste de lecture des enregistrements..."
+},{
+    "name": "link7",
+    "title": "Copernicus Climate Change Service (C3S) E-learning resources",
+    "thumb": "elearning",
+    "url": "https://climate.copernicus.eu/e-learning-resources",
+    "type": "LIENS UTILES",
+    "description": "Sur cette page, vous pouvez accéder à des ressources d'apprentissage en ligne sur divers sujets liés aux données climatiques, aux informations et aux outils fournis par le Copernicus Climate Change Service (C3S)...."
+},{
+    "name": "link8",
+    "title": "ECMWF charts",
+    "thumb": "charts",
+    "url": "https://charts.ecmwf.int/",
+    "type": "LIENS UTILES",
+    "description": "ECMWF Integrated Forecasting System (IFS) fournit des prévisions et la vérification associée à différentes résolutions et pour plusieurs plages de temps....."
+},{
+    "name": "link9",
+    "title": "GloFAS Global Flood Awareness System",
+    "thumb": "glofas",
+    "url": "https://www.globalfloods.eu/glofas-forecasting/",
+    "type": "LIENS UTILES",
+    "description": "Global Flood Awareness System (GloFAS) L'objectif est de soutenir les mesures préparatoires ainsi que la réponse d'urgence aux inondations majeures prévues et en cours à l'échelle mondiale....."
+},{
+    "name": "link10",
+    "title": "Basics of Jupyter Notebook",
+    "thumb": "jupyter",
+    "url": "https://jupyterlab.readthedocs.io/en/latest/user/interface.html",
+    "type": "LIENS UTILES",
+    "description": "Les bases de Jupyter Notebook...."
 }]
+

@@ -28,9 +28,44 @@
     "description": "The EUMETSAT Product Navigator..."
 },{
     "name": "link5",
-    "title": "Anlysis Video Tutorial",
+    "title": "ClimSA station Video Tutorial playlist",
     "thumb": "video",
-    "url": "https://youtube.com/playlist?list=PL0aTQkoOz35CbOwiosSlbD1Mz5rwphLrr",
+    "url": "https://youtube.com/playlist?list=PLFk4ybNmteZ76jgb2Juzty9wnOf7C1wMW&si=QYmOEpsUJr-aEw-W",
     "type": "USEFUL LINKS",
-    "description": "The Anlysis Video Tutorial..."
+    "description": "The Video Tutorial playlist..."
+},{
+    "name": "link6",
+    "title": "UAF-CS recordings playlist",
+    "thumb": "video",
+    "url": "https://youtube.com/playlist?list=PLFk4ybNmteZ7kLWdg1hH3OW11yK44yxtR&si=EaKBYJ1HINM-IwHE",
+    "type": "USEFUL LINKS",
+    "description": "UAF-CS recordings playlist..."
+},{
+    "name": "link7",
+    "title": "Copernicus C3S E-learning resources",
+    "thumb": "elearning",
+    "url": "https://climate.copernicus.eu/e-learning-resources",
+    "type": "USEFUL LINKS",
+    "description": "On this page you can access e-learning resources on various topics related to climate data, information and tools provided by the Copernicus Climate Change Service (C3S). These learning resources were developed by the Copernicus User Learning Services to support training events in 2019-2021 on the use of the Climate Data Store. They are now available to everyone to access and make sense of climate data with no login required. If you have any feedback on these lessons, please contact us at c3s-uls@ecmwf.int. ..."
+},{
+    "name": "link8",
+    "title": "ECMWF charts",
+    "thumb": "charts",
+    "url": "https://charts.ecmwf.int/",
+    "type": "USEFUL LINKS",
+    "description": "ECMWF Integrated Forecasting System (IFS) provides forecasts and associated verification at different resolutions and for multiple time ranges...."
+},{
+    "name": "link9",
+    "title": "GloFAS Global Flood Awareness System",
+    "thumb": "glofas",
+    "url": "https://www.globalfloods.eu/glofas-forecasting/",
+    "type": "USEFUL LINKS",
+    "description": "The aim of the Global Flood Awareness System (GloFAS) is to support preparatory measures as well as emergency response to predicted and ongoing major flood events at global scale...."
+},{
+    "name": "link10",
+    "title": "Basics of Jupyter Notebook",
+    "thumb": "jupyter",
+    "url": "https://jupyterlab.readthedocs.io/en/latest/user/interface.html",
+    "type": "USEFUL LINKS",
+    "description": "Basics of Jupyter Notebook...."
 }]

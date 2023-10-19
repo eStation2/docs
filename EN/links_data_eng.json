@@ -1,78 +1,99 @@
 [{
     "name": "link1",
-    "title": "eStation2",
-    "thumb": "estation2",
-    "url": "http://estation.jrc.ec.europa.eu",
-    "type": "USEFUL LINKS",
-    "description": "eStation2 web site..."
+    "title": "ClimSA station Video Tutorial playlist",
+    "thumb": "video",
+    "url": "https://youtube.com/playlist?list=PLFk4ybNmteZ76jgb2Juzty9wnOf7C1wMW&si=QYmOEpsUJr-aEw-W",
+    "type": "LEARNING MODULES",
+    "description": "The ClimSA station Video Tutorial playlist..."
 },{
     "name": "link2",
+    "title": "ClimSA station presentations",
+    "thumb": "presentations",
+    "url": "https://drive.google.com/drive/folders/1YBaK7IEz-saqypkV-y6NSNHA9f-cjr5f?usp=share_link",
+    "type": "LEARNING MODULES",
+    "description": "ClimSA station presentations..."
+},{
+    "name": "link3",
+    "title": "ClimSA meeting recordings",
+    "thumb": "video",
+    "url": "https://youtube.com/playlist?list=PLFk4ybNmteZ7kLWdg1hH3OW11yK44yxtR&si=EaKBYJ1HINM-IwHE",
+    "type": "LEARNING MODULES",
+    "description": "ClimSA meeting recording playlist..."
+},{
+    "name": "link4",
+    "title": "Copernicus Climate Change Service (C3S) E-learning resources",
+    "thumb": "elearning",
+    "url": "https://climate.copernicus.eu/e-learning-resources",
+    "type": "LEARNING MODULES",
+    "description": "On this page you can access e-learning resources on various topics related to climate data, information and tools provided by the Copernicus Climate Change Service (C3S)...."
+},{
+    "name": "link5",
+    "title": "Impact tool box tutorial",
+    "thumb": "impact",
+    "url": "https://drive.google.com/drive/folders/1dGneHYbKEzTFP1HzMr5YE32pPkLoOmW_",
+    "type": "LEARNING MODULES",
+    "description": "Impact tool box tutorial...."
+},{
+    "name": "link6",
+    "title": "Basics of Jupyter Notebook",
+    "thumb": "jupyter",
+    "url": "https://jupyterlab.readthedocs.io/en/latest/user/interface.html",
+    "type": "LEARNING MODULES",
+    "description": "Basics of Jupyter Notebook...."
+},{
+    "name": "link7",
     "title": "ClimSA",
     "thumb": "climsa",
     "url": "https://www.climsa.org/",
     "type": "USEFUL LINKS",
     "description": "ClimSA web site..."
 },{
-    "name": "link3",
+    "name": "link8",
     "title": "Copernicus",
     "thumb": "copernicus",
     "url": "http://www.copernicus.eu/",
     "type": "USEFUL LINKS",
-    "description": "This is the Copernicus web site..."
+    "description": "This is the Copernicus program website where you can access all other services..."
 },{
-    "name": "link4",
-    "title": "EUMETSAT Product Navigator",
-    "thumb": "eumetsat",
-    "url": "http://navigator.eumetsat.int",
+    "name": "link9",
+    "title": "JRC's Earth Observation & Climate stations",
+    "thumb": "estation2",
+    "url": "http://estation.jrc.ec.europa.eu",
     "type": "USEFUL LINKS",
-    "description": "The EUMETSAT Product Navigator..."
+    "description": "JRC project web site..."
 },{
-    "name": "link5",
-    "title": "ClimSA station Video Tutorial playlist",
-    "thumb": "video",
-    "url": "https://youtube.com/playlist?list=PLFk4ybNmteZ76jgb2Juzty9wnOf7C1wMW&si=QYmOEpsUJr-aEw-W",
-    "type": "USEFUL LINKS",
-    "description": "The Video Tutorial playlist..."
-},{
-    "name": "link6",
-    "title": "UAF-CS recordings playlist",
-    "thumb": "video",
-    "url": "https://youtube.com/playlist?list=PLFk4ybNmteZ7kLWdg1hH3OW11yK44yxtR&si=EaKBYJ1HINM-IwHE",
-    "type": "USEFUL LINKS",
-    "description": "UAF-CS recordings playlist..."
-},{
-    "name": "link7",
-    "title": "Copernicus Climate Change Service (C3S) E-learning resources",
-    "thumb": "elearning",
-    "url": "https://climate.copernicus.eu/e-learning-resources",
-    "type": "USEFUL LINKS",
-    "description": "On this page you can access e-learning resources on various topics related to climate data, information and tools provided by the Copernicus Climate Change Service (C3S)...."
-},{
-    "name": "link8",
+    "name": "link10",
     "title": "ECMWF charts",
     "thumb": "charts",
     "url": "https://charts.ecmwf.int/",
     "type": "USEFUL LINKS",
     "description": "ECMWF Integrated Forecasting System (IFS) provides forecasts and associated verification at different resolutions and for multiple time ranges...."
 },{
-    "name": "link9",
+    "name": "link11",
+    "title": "EUMETSAT Product Navigator",
+    "thumb": "eumetsat",
+    "url": "http://navigator.eumetsat.int",
+    "type": "USEFUL LINKS",
+    "description": "The EUMETSAT Product Navigator..."
+},{
+    "name": "link12",
     "title": "GloFAS Global Flood Awareness System",
     "thumb": "glofas",
     "url": "https://www.globalfloods.eu/glofas-forecasting/",
     "type": "USEFUL LINKS",
     "description": "The aim of the Global Flood Awareness System (GloFAS) is to support preparatory measures as well as emergency response to predicted and ongoing major flood events at global scale...."
 },{
-    "name": "link10",
-    "title": "Basics of Jupyter Notebook",
-    "thumb": "jupyter",
-    "url": "https://jupyterlab.readthedocs.io/en/latest/user/interface.html",
+    "name": "link13",
+    "title": "Global Wildfire Information System",
+    "thumb": "gwis",
+    "url": "https://gwis.jrc.ec.europa.eu/apps/gwis_current_situation/index.html",
     "type": "USEFUL LINKS",
-    "description": "Basics of Jupyter Notebook...."
+    "description": "Global Wildfire Information System...."
 },{
-    "name": "link11",
-    "title": "Basics of Jupyter Notebook",
-    "thumb": "jupyter",
-    "url": "https://jupyterlab.readthedocs.io/en/latest/user/interface.html",
-    "type": "Learning modules",
-    "description": "Basics of Jupyter Notebook...."
+    "name": "link14",
+    "title": "Global Drought Observatory",
+    "thumb": "GDO",
+    "url": "https://edo.jrc.ec.europa.eu/gdo/php/index.php?id=2001",
+    "type": "USEFUL LINKS",
+    "description": "Global Drought Observatory...."
 }]

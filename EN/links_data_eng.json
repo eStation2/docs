@@ -13,13 +13,6 @@
     "type": "LEARNING MODULES",
     "description": "ClimSA station presentations..."
 },{
-    "name": "link3",
-    "title": "ClimSA meeting recordings",
-    "thumb": "video",
-    "url": "https://youtube.com/playlist?list=PLFk4ybNmteZ7kLWdg1hH3OW11yK44yxtR&si=EaKBYJ1HINM-IwHE",
-    "type": "LEARNING MODULES",
-    "description": "ClimSA meeting recording playlist..."
-},{
     "name": "link4",
     "title": "Copernicus Climate Change Service (C3S) E-learning resources",
     "thumb": "elearning",
@@ -54,6 +47,13 @@
     "url": "http://www.copernicus.eu/",
     "type": "USEFUL LINKS",
     "description": "This is the Copernicus program website where you can access all other services..."
+},{
+    "name": "link3",
+    "title": "ClimSA meeting recordings",
+    "thumb": "video",
+    "url": "https://youtube.com/playlist?list=PLFk4ybNmteZ7kLWdg1hH3OW11yK44yxtR&si=EaKBYJ1HINM-IwHE",
+    "type": "USEFUL LINKS",
+    "description": "ClimSA meeting recording playlist..."
 },{
     "name": "link9",
     "title": "JRC's Earth Observation & Climate stations",

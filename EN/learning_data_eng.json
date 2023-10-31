@@ -1,0 +1,36 @@
+[{
+    "name": "link1",
+    "title": "ClimSA station Video Tutorial playlist",
+    "thumb": "video",
+    "url": "https://youtube.com/playlist?list=PLFk4ybNmteZ76jgb2Juzty9wnOf7C1wMW&si=QYmOEpsUJr-aEw-W",
+    "type": "LEARNING MODULES",
+    "description": "The ClimSA station Video Tutorial playlist..."
+},{
+    "name": "link2",
+    "title": "ClimSA station presentations",
+    "thumb": "presentations",
+    "url": "https://drive.google.com/drive/folders/1YBaK7IEz-saqypkV-y6NSNHA9f-cjr5f?usp=share_link",
+    "type": "LEARNING MODULES",
+    "description": "ClimSA station presentations..."
+},{
+    "name": "link4",
+    "title": "Copernicus Climate Change Service (C3S) E-learning resources",
+    "thumb": "elearning",
+    "url": "https://climate.copernicus.eu/e-learning-resources",
+    "type": "LEARNING MODULES",
+    "description": "On this page you can access e-learning resources on various topics related to climate data, information and tools provided by the Copernicus Climate Change Service (C3S)...."
+},{
+    "name": "link5",
+    "title": "Impact tool box tutorial",
+    "thumb": "impact",
+    "url": "https://drive.google.com/drive/folders/1dGneHYbKEzTFP1HzMr5YE32pPkLoOmW_",
+    "type": "LEARNING MODULES",
+    "description": "Impact tool box tutorial...."
+},{
+    "name": "link6",
+    "title": "Basics of Jupyter Notebook",
+    "thumb": "jupyter",
+    "url": "https://jupyterlab.readthedocs.io/en/latest/user/interface.html",
+    "type": "LEARNING MODULES",
+    "description": "Basics of Jupyter Notebook...."
+}]

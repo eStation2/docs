@@ -1,0 +1,65 @@
+[{
+    "name": "link7",
+    "title": "ClimSA",
+    "thumb": "climsa",
+    "url": "https://www.climsa.org/",
+    "type": "USEFUL LINKS",
+    "description": "Ceci est le site ClimSA..."
+},{
+    "name": "link8",
+    "title": "Copernicus",
+    "thumb": "copernicus",
+    "url": "http://www.copernicus.eu/",
+    "type": "USEFUL LINKS",
+    "description": "Ceci est le site Web Copernicus..."
+},{
+    "name": "link3",
+    "title": "ClimSA enregistrements de réunions",
+    "thumb": "video",
+    "url": "https://youtube.com/playlist?list=PLFk4ybNmteZ7kLWdg1hH3OW11yK44yxtR&si=EaKBYJ1HINM-IwHE",
+    "type": "USEFUL LINKS",
+    "description": "ClimSA liste de lecture des enregistrements..."
+},{
+    "name": "link9",
+    "title": "JRC's Earth Observation & Climate stations",
+    "thumb": "estation2",
+    "url": "http://estation.jrc.ec.europa.eu",
+    "type": "USEFUL LINKS",
+    "description": "Ceci est le site JRC eStation2..."
+},{
+    "name": "link14",
+    "title": "Global Drought Observatory",
+    "thumb": "GDO",
+    "url": "https://edo.jrc.ec.europa.eu/gdo/php/index.php?id=2001",
+    "type": "USEFUL LINKS",
+    "description": "Observatoire mondial de la sécheresse..."
+},{
+    "name": "link11",
+    "title": "EUMETSAT Product Navigator",
+    "thumb": "eumetsat",
+    "url": "http://navigator.eumetsat.int",
+    "type": "USEFUL LINKS",
+    "description": "Le navigateur de produits EUMETSAT..."
+},{
+    "name": "link12",
+    "title": "GloFAS Global Flood Awareness System",
+    "thumb": "glofas",
+    "url": "https://www.globalfloods.eu/glofas-forecasting/",
+    "type": "USEFUL LINKS",
+    "description": "L'objectif du Système mondial de sensibilisation aux inondations (GloFAS) est de soutenir les mesures préparatoires ainsi que les réponses d'urgence aux inondations majeures prévues et en cours à l'échelle mondiale...."
+},{
+    "name": "link13",
+    "title": "Global Wildfire Information System",
+    "thumb": "gwis",
+    "url": "https://gwis.jrc.ec.europa.eu/apps/gwis_current_situation/index.html",
+    "type": "USEFUL LINKS",
+    "description": "Système mondial d’information sur les feux de forêt...."
+},{
+    "name": "link10",
+    "title": "ECMWF graphiques",
+    "thumb": "charts",
+    "url": "https://charts.ecmwf.int/",
+    "type": "USEFUL LINKS",
+    "description": "Le système de prévision intégré (IFS) du CEPMMT fournit des prévisions et la vérification associée à différentes résolutions et pour plusieurs plages de temps...."
+}]
+

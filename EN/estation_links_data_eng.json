@@ -1,0 +1,64 @@
+[{
+    "name": "link7",
+    "title": "ClimSA",
+    "thumb": "climsa",
+    "url": "https://www.climsa.org/",
+    "type": "USEFUL LINKS",
+    "description": "ClimSA web site..."
+},{
+    "name": "link8",
+    "title": "Copernicus",
+    "thumb": "copernicus",
+    "url": "http://www.copernicus.eu/",
+    "type": "USEFUL LINKS",
+    "description": "This is the Copernicus program website where you can access all other services..."
+},{
+    "name": "link3",
+    "title": "ClimSA meeting recordings",
+    "thumb": "video",
+    "url": "https://youtube.com/playlist?list=PLFk4ybNmteZ7kLWdg1hH3OW11yK44yxtR&si=EaKBYJ1HINM-IwHE",
+    "type": "USEFUL LINKS",
+    "description": "ClimSA meeting recording playlist..."
+},{
+    "name": "link9",
+    "title": "JRC's Earth Observation & Climate stations",
+    "thumb": "estation2",
+    "url": "http://estation.jrc.ec.europa.eu",
+    "type": "USEFUL LINKS",
+    "description": "JRC project web site..."
+},{
+    "name": "link14",
+    "title": "Global Drought Observatory",
+    "thumb": "GDO",
+    "url": "https://edo.jrc.ec.europa.eu/gdo/php/index.php?id=2001",
+    "type": "USEFUL LINKS",
+    "description": "Global Drought Observatory...."
+},{
+    "name": "link11",
+    "title": "EUMETSAT Product Navigator",
+    "thumb": "eumetsat",
+    "url": "http://navigator.eumetsat.int",
+    "type": "USEFUL LINKS",
+    "description": "The EUMETSAT Product Navigator..."
+},{
+    "name": "link12",
+    "title": "GloFAS Global Flood Awareness System",
+    "thumb": "glofas",
+    "url": "https://www.globalfloods.eu/glofas-forecasting/",
+    "type": "USEFUL LINKS",
+    "description": "The aim of the Global Flood Awareness System (GloFAS) is to support preparatory measures as well as emergency response to predicted and ongoing major flood events at global scale...."
+},{
+    "name": "link13",
+    "title": "Global Wildfire Information System",
+    "thumb": "gwis",
+    "url": "https://gwis.jrc.ec.europa.eu/apps/gwis_current_situation/index.html",
+    "type": "USEFUL LINKS",
+    "description": "Global Wildfire Information System...."
+},{
+    "name": "link10",
+    "title": "ECMWF charts",
+    "thumb": "charts",
+    "url": "https://charts.ecmwf.int/",
+    "type": "USEFUL LINKS",
+    "description": "ECMWF Integrated Forecasting System (IFS) provides forecasts and associated verification at different resolutions and for multiple time ranges...."
+}]

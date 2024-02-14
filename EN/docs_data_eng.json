@@ -16,7 +16,14 @@
     "name": "doc3",
     "title": "USER MANUAL",
     "thumb": "pdf",
-    "url": "help/getfile?lang=eng&file=Climate Station User Manual V1.2.0.pdf",
+    "url": "help/getfile?lang=eng&file=Climate Station User Manual V1.2.1.pdf",
     "type": "USER DOCUMENTATION",
-    "uploaded": "October, 2023"
+    "uploaded": "February, 2024",
+},{
+    "name": "doc3",
+    "title": "DATA PROVIDER REGISTRATION",
+    "thumb": "pdf",
+    "url": "help/getfile?lang=eng&file=Climate Station Data Provider manual V1.2.1.pdf",
+    "type": "USER DOCUMENTATION",
+    "uploaded": "February, 2024"
 }]

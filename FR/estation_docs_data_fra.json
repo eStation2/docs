@@ -13,10 +13,10 @@
     "type": "USER DOCUMENTATION",
     "uploaded": "October, 2023"
 },{
-    "name": "doc3",
-    "title": "MANUEL UTILISATEUR",
+    "name": "doc4",
+    "title": "DATA PROVIDER REGISTRATION",
     "thumb": "pdf",
-    "url": "help/getfile?lang=fra&file=eStation3.0 Manuel Utilisateur V1.2.0.pdf",
+    "url": "help/getfile?lang=eng&file=Climate Station Data Provider manual V1.2.1.pdf",
     "type": "USER DOCUMENTATION",
-    "uploaded": "October, 2023"
+    "uploaded": "Février, 2024"
 }]

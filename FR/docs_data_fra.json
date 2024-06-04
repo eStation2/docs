@@ -2,28 +2,28 @@
     "name": "doc1",
     "title": "INSTALLATION MANUAL",
     "thumb": "pdf",
-    "url": "help/getfile?lang=eng&file=Climate Station Installation manual V1.2.0.pdf",
+    "url": "help/getfile?lang=eng&file=Climate Station Installation manual V1.3.0.pdf",
     "type": "USER DOCUMENTATION",
-    "uploaded": "October, 2023"
+    "uploaded": "Juin, 2024"
 },{
     "name": "doc2",
     "title": "RAPPORT PRODUITS",
     "thumb": "pdf",
-    "url": "help/getfile?lang=fra&file=Climate Station Rapport Produits V1.2.1.pdf",
+    "url": "help/getfile?lang=fra&file=Climate Station Rapport Produits V1.3.0.pdf",
     "type": "USER DOCUMENTATION",
-    "uploaded": "Mars, 2024"
+    "uploaded": "Juin, 2024"
 },{
     "name": "doc3",
     "title": "MANUEL UTILISATEUR",
     "thumb": "pdf",
-    "url": "help/getfile?lang=fra&file=Climate Station Manuel Utilisateur V1.2.1.pdf",
+    "url": "help/getfile?lang=fra&file=Climate Station Manuel Utilisateur V1.3.0.pdf",
     "type": "USER DOCUMENTATION",
-    "uploaded": "Février, 2024"
+    "uploaded": "Juin, 2024"
 },{
     "name": "doc4",
     "title": "DATA PROVIDER REGISTRATION",
     "thumb": "pdf",
-    "url": "help/getfile?lang=eng&file=Climate Station Data Provider manual V1.2.1.pdf",
+    "url": "help/getfile?lang=eng&file=Climate Station Data Provider manual V1.3.0.pdf",
     "type": "USER DOCUMENTATION",
-    "uploaded": "Février, 2024"
+    "uploaded": "Juin, 2024"
 }]

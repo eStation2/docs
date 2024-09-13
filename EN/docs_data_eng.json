@@ -9,9 +9,9 @@
     "name": "doc2",
     "title": "PRODUCT REPORT",
     "thumb": "pdf",
-    "url": "help/getfile?lang=eng&file=Climate Station Product Report V1.3.0.pdf",
+    "url": "help/getfile?lang=eng&file=Climate Station Product Report V1.3.1.pdf",
     "type": "USER DOCUMENTATION",
-    "uploaded": "June, 2024"
+    "uploaded": "September, 2024"
 },{
     "name": "doc3",
     "title": "USER MANUAL",
@@ -23,7 +23,7 @@
     "name": "doc4",
     "title": "DATA PROVIDER REGISTRATION",
     "thumb": "pdf",
-    "url": "help/getfile?lang=eng&file=Climate Station Data Provider manual V1.3.0.pdf",
+    "url": "help/getfile?lang=eng&file=Climate Station Data Provider manual V1.3.1.pdf",
     "type": "USER DOCUMENTATION",
-    "uploaded": "June, 2024"
+    "uploaded": "September, 2024"
 }]

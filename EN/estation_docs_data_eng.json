@@ -4,14 +4,14 @@
     "thumb": "pdf",
     "url": "help/getfile?lang=eng&file=eStation3.0 Installation manual V1.3.2.pdf",
     "type": "USER DOCUMENTATION",
-    "uploaded": "October, 2023"
+    "uploaded": "February, 2025"
 },{
     "name": "doc2",
     "title": "PRODUCT REPORT",
     "thumb": "pdf",
-    "url": "help/getfile?lang=eng&file=eStation3.0 Product Report V1.3.1.pdf",
+    "url": "help/getfile?lang=eng&file=eStation3.0 Product Report V1.3.3.pdf",
     "type": "USER DOCUMENTATION",
-    "uploaded": "September, 2024"
+    "uploaded": "April, 2025"
 },{
     "name": "doc3",
     "title": "USER MANUAL",
@@ -25,5 +25,5 @@
     "thumb": "pdf",
     "url": "help/getfile?lang=eng&file=Climate Station Data Provider manual V1.3.2.pdf",
     "type": "USER DOCUMENTATION",
-    "uploaded": "September, 2024"
+    "uploaded": "March, 2025"
 }]
